@@ -1,0 +1,17 @@
+{
+  "name": "gsap-scroll-side",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4"
+  },
+  "dependencies": {
+    "gsap": "^3.8.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.43.5"
+  }
+}
